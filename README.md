@@ -1,4 +1,4 @@
-try_git
+tryGit
 =======
 
-Try git challenge : http://try.github.com/
+Learn Git with Code School / Github http://try.github.com/ 
